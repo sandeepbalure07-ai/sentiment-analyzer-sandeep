@@ -1,7 +1,5 @@
 # Customer Review Sentiment Analysis using DistilBERT
-
-This project performs multi-class sentiment analysis on Amazon customer reviews using Natural Language Processing (NLP) and transformer-based deep learning models. It compares multiple text representation techniques, including TF-IDF, Word2Vec, FastText, GloVe, and DistilBERT embeddings, to classify customer sentiment into Positive, Neutral, and Negative categories.
-
+An implementation of a customer review sentiment analysis pipeline using DistilBERT and traditional NLP techniques. The project was customized with improved documentation, analysis, and model evaluation
 ## Dataset
 
 The project utilizes the Amazon Fine Food Reviews dataset from Kaggle, containing over 500,000 customer reviews for multi-class sentiment classification.. The dataset comes from a Kaggle competition. It can be downloaded from <a href="https://www.kaggle.com/snap/amazon-fine-food-reviews/download" > here </a>(254MB).
